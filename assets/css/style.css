@@ -154,7 +154,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 45px;
 }
 
 /*--------------------------------------------------------------
@@ -626,7 +626,8 @@ section {
 # Features
 --------------------------------------------------------------*/
 .features {
-  padding-top: 20px;
+  /* padding-top: 20px; */
+  background-color: #19181827;
 }
 
 .features .icon-box {
@@ -647,7 +648,7 @@ section {
 
 .features .icon-box p {
   font-size: 15px;
-  color: #848484;
+    /* color: #848484; */
   margin-left: 60px;
 }
 
